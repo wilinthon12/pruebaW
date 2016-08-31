@@ -1,3 +1,3 @@
 # pruebaW
-proyecto prueba
+proyecto prueba.
 hola..
